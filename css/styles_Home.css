@@ -80,10 +80,6 @@ i.material-icons {
     line-height: inherit;
 }
 
-
-/*===========================================
-Text Styles CSS
-============================================*/
 .t-title-size {
     font-size: 18px;
 }
@@ -99,9 +95,7 @@ Text Styles CSS
 .t-right {
     text-align: right;
 }
-/*===========================================
-Padding & Margins CSS
-============================================*/
+
 .p-5 { padding: 5px; }
 .p-10 { padding: 10px; }
 .p-15 { padding: 15px; }
@@ -134,9 +128,7 @@ Padding & Margins CSS
 .m-40 { margin: 40px; }
 .m-45 { margin: 45px; }
 .m-50 { margin: 50px; }
-/*===========================================
-Display Styles
-============================================*/
+
 .d-flex {
     display: flex;
 }
@@ -156,9 +148,7 @@ Display Styles
 .flex-2 {
     flex: 2;
 }
-/*===========================================
-Page Styles
-============================================*/
+
 .wraper {
     width: 100%;
     height: 100vh;
@@ -214,7 +204,7 @@ Page Styles
     letter-spacing: 5px;
     line-height: 40px;
     font-weight: 500;
-    transition: background-color 0.3s ease, transform 0.3s ease; /* การเปลี่ยนสีพื้นหลังและขนาดอย่างราบรื่น */
+    transition: background-color 0.3s ease, transform 0.3s ease; 
 }
 
 .logo:hover a {
@@ -242,7 +232,7 @@ Page Styles
 }
 .nav ul li a:hover {
     color: red; 
-    transform: scale(1.3); /* เพิ่มขนาดของข้อความเมื่อชี้ */
+    transform: scale(1.3); 
     transition: transform 0.3s ease, color 0.3s ease; 
 }
 
@@ -304,7 +294,6 @@ Page Styles
     font-family: "Roboto", sans-serif;
     font-weight: 600;
 }
-
 
 .text {
     font-size: 15px;

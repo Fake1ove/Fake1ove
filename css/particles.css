@@ -12,5 +12,5 @@ pointer-particles {
     left: 0;
     width: 100%;
     height: 100%;
-    pointer-events: none; /* เพื่อให้การคลิกไม่ส่งผลกระทบต่อพาร์ติเคิล */
+    pointer-events: none; 
 }

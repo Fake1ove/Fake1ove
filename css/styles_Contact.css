@@ -52,9 +52,7 @@ i.material-icons {
 }
 
 
-/*===========================================
-Text Styles CSS
-============================================*/
+
 .t-title-size {
     font-size: 18px;
 }
@@ -70,9 +68,7 @@ Text Styles CSS
 .t-right {
     text-align: right;
 }
-/*===========================================
-Padding & Margins CSS
-============================================*/
+
 .p-5 { padding: 5px; }
 .p-10 { padding: 10px; }
 .p-15 { padding: 15px; }
@@ -105,9 +101,7 @@ Padding & Margins CSS
 .m-40 { margin: 40px; }
 .m-45 { margin: 45px; }
 .m-50 { margin: 50px; }
-/*===========================================
-Display Styles
-============================================*/
+
 .d-flex {
     display: flex;
 }
@@ -118,9 +112,7 @@ Display Styles
 .flex-2 {
     flex: 2;
 }
-/*===========================================
-Page Styles
-============================================*/
+
 .wraper {
     width: 100%;
     height: 100vh; 
